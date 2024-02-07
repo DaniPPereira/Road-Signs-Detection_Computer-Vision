@@ -1,0 +1,12 @@
+﻿  Source.cpp
+D:\IPCA 22-23\VC\Projeto_Visao\Projeto_Visao\vc.h(17,1): warning C4005: 'MAX': redefinição de macro
+C:\opencv\build\include\opencv2\core\cvdef.h(493,1): message : consulte a definição anterior de 'MAX'
+D:\IPCA 22-23\VC\Projeto_Visao\Projeto_Visao\vc.h(18,1): warning C4005: 'MIN': redefinição de macro
+C:\opencv\build\include\opencv2\core\cvdef.h(489,1): message : consulte a definição anterior de 'MIN'
+D:\IPCA 22-23\VC\Projeto_Visao\Projeto_Visao\Source.cpp(133,53): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Gerando código
+  1 of 128 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  Projeto_Visao.vcxproj -> D:\IPCA 22-23\VC\Projeto_Visao\x64\Release\Projeto_Visao.exe
